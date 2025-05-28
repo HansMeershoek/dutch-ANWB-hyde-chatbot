@@ -14,7 +14,7 @@ setup(
     description="Dutch ANWB HyDE Chatbot - RAG system with Memory and HyDE for ANWB T&C International roadside assistance",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hnsmr/dutch-ANWB-hyde-chatbot",
+    url="https://github.com/HansMeershoek/dutch-ANWB-hyde-chatbot",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -42,8 +42,8 @@ setup(
     },
     keywords="chatbot, RAG, HyDE, ANWB, Dutch, NLP, AI, streamlit, memory, international, roadside assistance",
     project_urls={
-        "Bug Reports": "https://github.com/hnsmr/dutch-ANWB-hyde-chatbot/issues",
-        "Source": "https://github.com/hnsmr/dutch-ANWB-hyde-chatbot",
-        "Documentation": "https://github.com/hnsmr/dutch-ANWB-hyde-chatbot#readme",
+        "Bug Reports": "https://github.com/HansMeershoek/dutch-ANWB-hyde-chatbot/issues",
+        "Source": "https://github.com/HansMeershoek/dutch-ANWB-hyde-chatbot",
+        "Documentation": "https://github.com/HansMeershoek/dutch-ANWB-hyde-chatbot#readme",
     },
 ) 

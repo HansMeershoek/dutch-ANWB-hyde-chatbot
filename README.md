@@ -31,14 +31,14 @@ The system combines several advanced NLP techniques:
 ### Install from GitHub
 
 ```bash
-pip install git+https://github.com/hnsmr/dutch-ANWB-hyde-chatbot.git
+pip install git+https://github.com/HansMeershoek/dutch-ANWB-hyde-chatbot.git
 ```
 
 ### Manual Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hnsmr/dutch-ANWB-hyde-chatbot.git
+git clone https://github.com/HansMeershoek/dutch-ANWB-hyde-chatbot.git
 cd dutch-ANWB-hyde-chatbot
 ```
 
