@@ -1,12 +1,12 @@
 # Dutch ANWB HyDE Chatbot
 
-A sophisticated RAG (Retrieval-Augmented Generation) chatbot system with HyDE (Hypothetical Document Embeddings) and re-ranking capabilities, specifically designed for ANWB (Dutch automobile association) travel and roadside assistance information.
+A sophisticated RAG (Retrieval-Augmented Generation) chatbot system with Memory and HyDE (Hypothetical Document Embeddings) capabilities, specifically designed for ANWB T&C International roadside assistance information.
 
 ## Features
 
 - **HyDE (Hypothetical Document Embeddings)**: Advanced retrieval technique that generates hypothetical answers to improve document retrieval accuracy
-- **RAG with Re-ranking**: Retrieval-Augmented Generation with intelligent document re-ranking
-- **ANWB-specific Knowledge**: Specialized for Dutch travel, roadside assistance, and automotive services
+- **RAG with Memory**: Retrieval-Augmented Generation with conversational memory for context-aware responses
+- **ANWB T&C Specialized**: Focused on ANWB Terms & Conditions for International roadside assistance
 - **Interactive Streamlit Interface**: User-friendly web interface for easy interaction
 - **Context-aware Responses**: Package and supplement selection for targeted assistance
 - **Multilingual Support**: Optimized for Dutch language queries
@@ -31,14 +31,14 @@ The system combines several advanced NLP techniques:
 ### Install from GitHub
 
 ```bash
-pip install git+https://github.com/yourusername/dutch-ANWB-hyde-chatbot.git
+pip install git+https://github.com/hnsmr/dutch-ANWB-hyde-chatbot.git
 ```
 
 ### Manual Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dutch-ANWB-hyde-chatbot.git
+git clone https://github.com/hnsmr/dutch-ANWB-hyde-chatbot.git
 cd dutch-ANWB-hyde-chatbot
 ```
 
